@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  ================================================== -->
+  <meta charset="utf-8">
+  <title>Dafnet - OurService</title>
+
+  <!-- Mobile Specific Metas
+  ================================================== -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="One page parallax responsive HTML Template">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="author" content="Themefisher">
+  <meta name="generator" content="Themefisher Bingo HTML Template v1.0">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="../asset/images/dafnet.png" />
+
+  <!-- CSS
+  ================================================== -->
+  <!-- Themefisher Icon font -->
+  <link rel="stylesheet" href="../asset/plugins/themefisher-font/style.css">
+  <!-- bootstrap.min css -->
+  <link rel="stylesheet" href="../asset/plugins/bootstrap/bootstrap.min.css">
+  <!-- Lightbox.min css -->
+  <link rel="stylesheet" href="../asset/plugins/lightbox2/css/lightbox.min.css">
+  <!-- animation css -->
+  <link rel="stylesheet" href="../asset/plugins/animate/animate.css">
+  <!-- Slick Carousel -->
+  <link rel="stylesheet" href="../asset/plugins/slick/slick.css">
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="../asset/css/style.css">
+
+</head>
+<body id="body">
+
+  <!--
+  Start Preloader
+  ==================================== -->
+  <div id="preloader">
+    <div class='preloader'>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+  <!--
+  End Preloader
+  ==================================== -->
+
+<!--
+Fixed Navigation
+==================================== -->
+<header class="navigation fixed-top">
+  <div class="container">
+    <!-- main nav -->
+    <nav class="navbar navbar-expand-lg navbar-light px-0">
+      <!-- logo -->
+      <a class="navbar-brand logo" href="index.php">
+        <img loading="lazy" class="logo-default" src="../asset/images/logo-dafnet.png" alt="logo" width="250px" height="90px"/>
+        <img loading="lazy" class="logo-white" src="../asset/images/logo-dafnet.png" alt="logo" width="250px" height="90px"/>
+      </a>
+      <!-- /logo -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+        aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navigation">
+        <ul class="navbar-nav ml-auto text-center">
+			<li class="nav-item ">
+			  <a class="nav-link" href="index.php">HOME</a>
+			</li>
+			<li class="nav-item ">
+			  <a class="nav-link" href="about.php">ABOUT</a>
+			</li>
+			<li class="nav-item active">
+			  <a class="nav-link" href="ourservice.php">OUR SERVICE</a>
+			</li>
+			<li class="nav-item ">
+			  <a class="nav-link" href="contactus.php">CONTACT US</a>
+			</li>
+			<li class="nav-item ">
+			  <a class="nav-link" href="product.php">PRODUCT</a>
+			</li>
+		  </ul>
+      </div>
+    </nav>
+    <!-- /main nav -->
+  </div>
+</header>
+<!--
+End Fixed Navigation
+==================================== -->
+
+<section class="single-page-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h2>Our Services</h2>
+				<ol class="breadcrumb header-bradcrumb justify-content-center">
+					<li class="breadcrumb-item"><a href="index.php" class="text-white">Home</a></li>
+					<li class="breadcrumb-item active" aria-current="page">Our Services</li>
+				</ol>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Start Services Section
+==================================== -->
+
+<section class="services" id="services">
+	<div class="container">
+		<div class="row no-gutters">
+
+			<!-- Single Service Item -->
+			<div class="col-lg-6 col-md-8 mb-4 mb-lg-5 px-2">
+				<div class="service-block p-4 color-bg">
+					<div class="row">
+					<div class="service-icon">
+						<i class="tf-ion-android-download"></i>
+					</div>
+					<h3>INSTALLATION</h3>
+					</div>
+				</div>
+			</div>
+			<!-- End Single Service Item -->
+
+			<!-- Single Service Item -->
+			<div class="col-lg-6 col-md-8 mb-4 mb-lg-5 px-2">
+				<div class="service-block p-4 color-bg">
+					<div class="row">
+					<div class="service-icon">
+						<i class="tf-tools-2"></i>
+					</div>
+					<h3>MAINTENANCE</h3>
+					</div>
+				</div>
+			</div>
+			<!-- End Single Service Item -->
+
+			<!-- Single Service Item -->
+			<div class="col-lg-6 col-md-8 mb-4 mb-lg-5 px-2">
+				<div class="service-block p-4 color-bg">
+					<div class="row">
+					<div class="service-icon">
+						<i class="tf-ion-code-working"></i>
+					</div>
+					<h3>DEVELOPMENT</h3>
+					</div>
+				</div>
+			</div>
+			<!-- End Single Service Item -->
+
+			<!-- Single Service Item -->
+			<div class="col-lg-6 col-md-8 mb-4 mb-lg-5 px-2">
+				<div class="service-block p-4 color-bg">
+					<div class="row">
+					<div class="service-icon">
+						<i class="tf-ion-ios-cog"></i>
+					</div>
+					<h3>SERVICE</h3>
+					</div>
+				</div>
+			</div>
+			<!-- End Single Service Item -->
+
+		</div> <!-- End row -->
+	</div> <!-- End container -->
+</section> <!-- End section -->
+<!-- Start Team Skills
+=========================================== -->
+
+<footer id="footer" class="bg-one">
+	<footer id="footer" class="bg-one">
+		<div class="footer-bottom">
+		  <h5>&copy; 2024 All rights reserved.</h5>
+		</div>
+	  </footer> <!-- end footer -->
+</footer> <!-- end footer -->
+
+
+<!-- end Footer Area
+========================================== -->
+<!-- 
+    Essential Scripts
+    =====================================-->
+<!-- Main jQuery -->
+<script src="../asset/plugins/jquery/jquery.min.js"></script>
+
+<!-- Fontawosome -->
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+<!-- Bootstrap4 -->
+<script src="../asset/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- Parallax -->
+<script src="../asset/plugins/parallax/jquery.parallax-1.1.3.js"></script>
+<!-- lightbox -->
+<script src="../asset/plugins/lightbox2/js/lightbox.min.js"></script>
+<!-- Owl Carousel -->
+<script src="../asset/plugins/slick/slick.min.js"></script>
+<!-- filter -->
+<script src="../asset/plugins/filterizr/jquery.filterizr.min.js"></script>
+<!-- Smooth Scroll js -->
+<script src="../asset/plugins/smooth-scroll/smooth-scroll.min.js"></script>
+<!-- Google Map -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"></script>
+<script src="../asset/plugins/google-map/gmap.js"></script>
+
+<!-- Custom js -->
+<script src="../asset/js/script.js"></script>
+
+</body>
+
+</html>

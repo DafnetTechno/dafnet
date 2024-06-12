@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  ================================================== -->
+  <meta charset="utf-8">
+  <title>Dafnet - Home</title>
+
+  <!-- Mobile Specific Metas
+  ================================================== -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="One page parallax responsive HTML Template">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+  <meta name="author" content="Themefisher">
+  <meta name="generator" content="Themefisher Bingo HTML Template v1.0">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="../asset/images/dafnet.png" />
+
+  <!-- CSS
+  ================================================== -->
+  <!-- Themefisher Icon font -->
+  <link rel="stylesheet" href="../asset/plugins/themefisher-font/style.css">
+  <!-- bootstrap.min css -->
+  <link rel="stylesheet" href="../asset/plugins/bootstrap/bootstrap.min.css">
+  <!-- Lightbox.min css -->
+  <link rel="stylesheet" href="../asset/plugins/lightbox2/css/lightbox.min.css">
+  <!-- animation css -->
+  <link rel="stylesheet" href="../asset/plugins/animate/animate.css">
+  <!-- Slick Carousel -->
+  <link rel="stylesheet" href="../asset/plugins/slick/slick.css">
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="../asset/css/style.css">
+
+</head>
+<body id="body">
+
+  <!--
+  Start Preloader
+  ==================================== -->
+  <div id="preloader">
+    <div class='preloader'>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+  <!--
+  End Preloader
+  ==================================== -->
+
+<!--
+Fixed Navigation
+==================================== -->
+<header class="navigation fixed-top">
+  <div class="container">
+    <!-- main nav -->
+    <nav class="navbar navbar-expand-lg navbar-light px-0">
+      <!-- logo -->
+      <a class="navbar-brand logo" href="index.php">
+        <img loading="lazy" class="logo-default" src="../asset/images/logo-dafnet.png" alt="logo" width="250px" height="90px"/>
+        <img loading="lazy" class="logo-white" src="../asset/images/logo-dafnet.png" alt="logo" width="250px" height="90px"/>
+      </a>
+      <!-- /logo -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+        aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navigation">
+        <ul class="navbar-nav ml-auto text-center">
+			<li class="nav-item active">
+			  <a class="nav-link" href="index.php">HOME</a>
+			</li>
+			<li class="nav-item ">
+			  <a class="nav-link" href="about.php">ABOUT</a>
+			</li>
+			<li class="nav-item ">
+			  <a class="nav-link" href="ourservice.php">OUR SERVICE</a>
+			</li>
+			<li class="nav-item ">
+			  <a class="nav-link" href="contactus.php">CONTACT US</a>
+			</li>
+			<li class="nav-item ">
+			  <a class="nav-link" href="product.php">PRODUCT</a>
+			</li>
+		  </ul>
+      </div>
+    </nav>
+    <!-- /main nav -->
+  </div>
+</header>
+<!--
+End Fixed Navigation
+==================================== -->
+
+<div class="hero-slider">
+	<div class="slider-item th-fullpage hero-area" style="background-image: url(../asset/images/slider/slider-1.jpg);">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h1 data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".1">DAFNET</h1>
+					</div>
+			</div>
+		</div>
+	</div>
+	<div class="slider-item th-fullpage hero-area" style="background-image: url(../asset/images/slider/slider-2.jpg);">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h1 data-duration-in=".3" data-animation-in="fadeInUp" data-delay-in=".1">Solution And Service</h1>
+					</div>
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<!-- end Footer Area
+========================================== -->
+<!-- 
+    Essential Scripts
+    =====================================-->
+<!-- Main jQuery -->
+<script src="../asset/plugins/jquery/jquery.min.js"></script>
+
+<!-- Bootstrap4 -->
+<script src="../asset/plugins/bootstrap/bootstrap.min.js"></script>
+<!-- Parallax -->
+<script src="../asset/plugins/parallax/jquery.parallax-1.1.3.js"></script>
+<!-- lightbox -->
+<script src="../asset/plugins/lightbox2/js/lightbox.min.js"></script>
+<!-- Owl Carousel -->
+<script src="../asset/plugins/slick/slick.min.js"></script>
+<!-- filter -->
+<script src="../asset/plugins/filterizr/jquery.filterizr.min.js"></script>
+<!-- Smooth Scroll js -->
+<script src="../asset/plugins/smooth-scroll/smooth-scroll.min.js"></script>
+<!-- Google Map -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"></script>
+<script src="../asset/plugins/google-map/gmap.js"></script>
+
+<!-- Custom js -->
+<script src="../asset/js/script.js"></script>
+
+</body>
+
+</html>
